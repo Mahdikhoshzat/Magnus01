@@ -1,0 +1,41 @@
+.main{
+    display: flex;
+    flex-flow: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 2px;
+    box-shadow: 0 0 25 5 rgba(0, 0, 0, 0.7);
+    max-width: 620px;
+    margin: 5rem auto;
+    width: 90vw;
+}
+.main h1{
+    color: rgb(0, 24, 50,0.9);
+}
+.main hr{
+    padding: 2px;
+    height: 0.25rem;
+    width: 6rem;
+    background-color: hsl(205, 78%, 60%);
+    margin-left: auto;
+    margin-right: auto;
+}
+.main ul{
+    list-style-type: none;
+}
+.ref-btn{
+    width: 90px;
+    letter-spacing: 0.1rem;
+    border-radius: 3px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 5px 0;
+    font-size: 1.2rem;
+    background-color: hsl(205, 78%, 60%);
+    margin-top: 2rem;
+    display: inline-block;
+    cursor: pointer;
+}

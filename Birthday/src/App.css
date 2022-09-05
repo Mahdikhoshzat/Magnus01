@@ -1,0 +1,10 @@
+.App{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #f28ab2;
+    font-size: 1rem;
+    line-height: 1.5;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
