@@ -1,0 +1,14 @@
+.head{
+    letter-spacing: 0.1rem;
+    color: #010538;
+}
+.head hr{
+    width: 80px;
+    height: 4px;
+    background-color: rgb(31, 53, 192);
+    border: none;
+    margin:0.5rem auto 4rem auto;
+    text-align: center;
+    align-items: center;
+    
+}
